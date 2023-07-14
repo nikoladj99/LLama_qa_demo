@@ -1,0 +1,10 @@
+Word embedding in NLP is an important term that is used for representing words for text analysis in the form of real-valued vectors. 
+It is an advancement in NLP that has improved the ability of computers to understand text-based content in a better way. 
+It is considered one of the most significant breakthroughs of deep learning for solving challenging natural language processing problems.
+
+In this approach, words and documents are represented in the form of numeric vectors allowing similar words to have similar vector representations. 
+The extracted features are fed into a machine learning model so as to work with text data and preserve the semantic and syntactic information. 
+This information once received in its converted form is used by NLP algorithms that easily digest these learned representations and process textual information.
+
+Due to the perks this technology brings on the table, the popularity of ML NLP is surging making it one of the most chosen fields by the developers.
+Now that you have a basic understanding of the topic, let us start from scratch by introducing you to word embeddings, its techniques, and applications.

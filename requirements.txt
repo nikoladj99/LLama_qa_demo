@@ -1,0 +1,8 @@
+streamlit
+transformers
+tensorflow
+pypdf
+scikit-learn
+llama_index
+langchain
+streamlit_chat
